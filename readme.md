@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/is-jpg](http://github.com/sindresorhus/is-jpg). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-is-jpg`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # is-jpg [![Build Status](https://travis-ci.org/sindresorhus/is-jpg.svg?branch=master)](https://travis-ci.org/sindresorhus/is-jpg)
 
 > Check if a Buffer/Uint8Array is a [JPEG](http://en.wikipedia.org/wiki/JPEG) image

@@ -1,24 +1,7 @@
 {
-  "name": "is-jpg",
-  "version": "0.1.0",
+  "name": "sindresorhus-is-jpg",
   "description": "Check if a Buffer/Uint8Array is a JPEG image",
-  "license": "MIT",
-  "repository": "sindresorhus/is-jpg",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=0.10.0"
-  },
-  "scripts": {
-    "test": "mocha",
-    "browser": "browserify -s $npm_package_name -o browser.js ."
-  },
-  "files": [
-    "index.js"
-  ],
+  "version": "0.1.0",
   "keywords": [
     "jpg",
     "jpeg",
@@ -34,13 +17,8 @@
     "exif",
     "binary",
     "buffer",
-    "uint8array",
-    "cli",
-    "bin"
+    "uint8array"
   ],
-  "devDependencies": {
-    "browserify": "^3.0.0",
-    "mocha": "*",
-    "read-chunk": "^0.1.0"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
